@@ -1,0 +1,22 @@
+{
+    "User1":{
+        "id":1,
+        "name":"Taras",
+        "age":20
+    },
+    "User2":{
+        "id":2,
+        "name":"Dmytro",
+        "age":16
+    },
+    "User3":{
+        "id":3,
+        "name":"Markijan",
+        "age":26
+    },
+    "User4":{
+        "id":4,
+        "name":"Darii",
+        "age":24
+    }
+}
